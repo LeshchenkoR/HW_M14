@@ -26,6 +26,7 @@ class Demo {
         public static void main(String[] args) {
             new MyThread("Alpha");
             new MyThread("Bravo");
+            new MyThread("Charlie");
             new MyThread("Foxtrot");
         }
     }
